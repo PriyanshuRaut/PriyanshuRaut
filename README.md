@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuraut&show_icons=true&locale=en&count_private=true&hide_title=false&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://githubstats-beige.vercel.app/api?username=priyanshuraut&show_icons=true&locale=en&count_private=true&hide_title=false&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
