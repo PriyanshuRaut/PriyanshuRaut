@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Rauth</h1>
+<h1 align="center">Hi There👋, I'm Priyanshu Rauth</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Android+Developer;AI+Enthusiast;Open+Source+Contributor;Writer+%7C+Tech+Thinker;Welcome+to+my+GitHub+Profile!">
