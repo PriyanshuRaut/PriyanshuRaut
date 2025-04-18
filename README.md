@@ -7,6 +7,19 @@
 <h3 align="center">Android Developer • Writer • AI Enthusiast</h3>
 
 <p align="center">
+  <svg width="60" height="60" viewBox="0 0 100 100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60">
+      👀
+    </text>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 50 50" to="360 50 50"
+      dur="3s" repeatCount="indefinite"/>
+  </svg>
+</p>
+
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshuraut&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
@@ -59,7 +72,7 @@
 
 ---
 
-### 💬 Dynamic Quote
+### 💬 Quote
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=If+It+Works%2C+It+Works" alt="Quote: If it works, it works" />
