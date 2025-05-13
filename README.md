@@ -50,24 +50,10 @@
 
 ---
 
-### 🧠 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,cs,css,dart,firebase,flutter,git,html,java,kotlin,mysql,nodejs,opencv,pandas,python,react,selenium,sqlite,unity" />
-</p>
-
----
-
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://githubstats-beige.vercel.app/api?username=priyanshuraut&show_icons=true&locale=en&count_private=true&hide_title=false&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshuraut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuraut&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
