@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: [**Mathify**](https://github.com/PriyanshuRaut/Mathify)  
+- 🔭 I’m currently working on: [**Ninja Dash**](https://github.com/PriyanshuRaut/Mathify)  
 - 🌱 Learning: **Flutter**, **React Native**, **TensorFlow**, **PyTorch**, **Scikit-learn**  
 - 👨‍💻 Projects: [GitHub Profile](https://github.com/PriyanshuRaut)  
 - 📫 Reach me at: **priyanshuraut1009@gmail.com**  
