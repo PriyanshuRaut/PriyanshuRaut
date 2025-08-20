@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: [**Ninja Dash**](https://github.com/PriyanshuRaut/Ninja_Dash_Game)  
+- 🔭 I’m currently working on: [**Ninja Dash**](https://github.com/PriyanshuRaut/Ninja_Dash_Game)  , Local Buddy & GreenIQ
 - 🌱 Learning: **Flutter**, **React Native**, **TensorFlow**, **PyTorch**, **Scikit-learn**  
 - 👨‍💻 Projects: [GitHub Profile](https://github.com/PriyanshuRaut)  
 - 📫 Reach me at: **priyanshuraut1009@gmail.com**  
